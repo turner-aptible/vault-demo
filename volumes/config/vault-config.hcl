@@ -7,4 +7,6 @@ listener "tcp" {
   tls_disable = 1
 }
 
+log_file = "/vault/logs/vault_audit.log"
+log_format = "json"
 ui = true
