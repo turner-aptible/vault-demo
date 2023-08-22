@@ -1,2 +1,2 @@
-volumes/file/
-volumes/logs/
+volumes/file/*
+volumes/logs/*
